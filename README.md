@@ -1,4 +1,4 @@
-# css-grid-flex-simple
+# css-grid-flex-simple full responsive design
 A little combo Grid &amp; Flex example.
 #Picture
 
